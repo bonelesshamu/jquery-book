@@ -44,16 +44,13 @@ h1 {
 .wrapper-header {
 	border-top: solid 6px #000;
 }
+
 .header {
-	margin: 16px auto;
-	width: 90%;
-}
-.header h1 {
 	margin: 0 0 10px 0;
-	width: 1000px;
-	height: 85px;
+	width: 1124px;
+	height: 90px;
 	background: url(../images/hamu.png) no-repeat;
-	text-indent: -9999px;
+	text-indent: 9999px;
 }
 
 /* category */
